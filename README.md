@@ -1,6 +1,6 @@
 [[Back to ModernSP]](https://github.com/ModernSP/docs/blob/master/README.md)
 
-# ModernSP.NPM.CliAndApi
+# ModernSP.NPM.Cli
 A Node Package Manager (NPM) command line interface (CLI) that ensures all ModernSP dependencies are updated and present.
 
 - When run, ensures all dependent npm global packages and local packages are upgraded to newest supported versions recommended by the [SharePoint Framework (SPFx)](https://dev.office.com/sharepoint/docs/spfx/sharepoint-framework-overview) and ModernSP.
