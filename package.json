@@ -1,0 +1,41 @@
+{
+  "name": "modernsp",
+  "version": "0.0.1",
+  "description": "A Node Package Manager (NPM) command line interface (CLI) that ensures all ModernSP dependencies are updated and present.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModernSP/NPM.Cli.git"
+  },
+  "keywords": [
+    "modernsp",
+    "cli",
+    "sharepoint",
+    "spfx",
+    "sp2010",
+    "sp2013",
+    "sp2016",
+    "spo",
+    "2010",
+    "2013",
+    "2016",
+    "Online",
+    "O365"
+  ],
+  "author": "Alex Randall (https://github.com/alex-randall)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ModernSP/NPM.Cli/issues"
+  },
+  "homepage": "https://github.com/ModernSP/NPM.Cli#readme",
+  "devDependencies": {
+    "chalk": "^1.1.3",
+    "global-modules": "^0.2.3",
+    "gulp": "3.9.1",
+    "latest": "^0.2.0",
+    "strip-json-comments": "^2.0.1"
+  }
+}

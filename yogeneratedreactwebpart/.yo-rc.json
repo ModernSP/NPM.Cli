@@ -1,0 +1,7 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "yogeneratedreactwebpart",
+    "libraryId": "43f824e2-ca9a-498b-8b8f-136d967e9981",
+    "framework": "react"
+  }
+}

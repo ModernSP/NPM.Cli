@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "yogeneratedreactwebpart-client-side-solution",
+    "id": "43f824e2-ca9a-498b-8b8f-136d967e9981",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/yogeneratedreactwebpart.sppkg"
+  }
+}
